@@ -66,14 +66,19 @@ https://youtu.be/aVcRgJhPpVo
 
 
 https://github.com/Almog-Arazi/Lane-Detection-for-Autonomous-Vehicles/assets/112971847/3fc6225b-eece-427e-ac02-4ac1811be799
+
 [![Night-Time Lane Detection Result](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fyoutu.be%2FrlmJ9cQNHYw)](https://youtu.be/rlmJ9cQNHYw)
+
 https://youtu.be/rlmJ9cQNHYw
 
 ### Crosswalk Detection Result
 
 
 https://github.com/Almog-Arazi/Lane-Detection-for-Autonomous-Vehicles/assets/112971847/3a06be18-0667-4325-98b8-8aa4b89bfe18
+
+
 [![Crosswalk Detection Result](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fyoutu.be%2FpUXdubbXLzc)](https://youtu.be/pUXdubbXLzc)
+
 
 https://youtu.be/pUXdubbXLzc?si=guNPnD2d0_9Ngf1E
 ## Python Code Overview
