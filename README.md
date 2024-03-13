@@ -34,18 +34,28 @@ Implement algorithms to recognize crosswalk patterns and lines.
 Differentiate crosswalks from other road markings for safety.
 
 ## Results
-
-<video src="[https://youtu.be/pUXdubbXLzc?si=guNPnD2d0_9Ngf1E]" controls="controls" style="max-width: 500px;"></video>
-
 ### Day Result
-![Day and Changing Road Result](https://s6.ezgif.com/tmp/ezgif-6-3ae73fc256.gif)
+
+https://github.com/Almog-Arazi/Lane-Detection-for-Autonomous-Vehicles/assets/112971847/9ebfba29-bb16-4e34-bcc9-2923c6afc854
+
+https://youtu.be/aVcRgJhPpVo
+
+
 
 ### Night-Time Lane Detection Result
-![Night-Time Lane Detection Result](https://s6.ezgif.com/tmp/ezgif-6-2f3c82a481.gif)
+
+
+https://github.com/Almog-Arazi/Lane-Detection-for-Autonomous-Vehicles/assets/112971847/3fc6225b-eece-427e-ac02-4ac1811be799
+
+https://youtu.be/rlmJ9cQNHYw
 
 ### Crosswalk Detection Result
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/rk8XxTd/crosswalk-result-ezgif-com-video-to-gif-converter.gif" alt="crosswalk-result-ezgif-com-video-to-gif-converter" border="0"></a>
-https://i.ibb.co/rk8XxTd/crosswalk-result-ezgif-com-video-to-gif-converter.gif
+
+
+https://github.com/Almog-Arazi/Lane-Detection-for-Autonomous-Vehicles/assets/112971847/3a06be18-0667-4325-98b8-8aa4b89bfe18
+
+
+https://youtu.be/pUXdubbXLzc?si=guNPnD2d0_9Ngf1E
 ## Python Code Overview
 
 ### Day and Night Algorithm
