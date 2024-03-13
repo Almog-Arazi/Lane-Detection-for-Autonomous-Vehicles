@@ -3,18 +3,32 @@
 This project focuses on implementing a lane detection system for autonomous vehicles using computer vision techniques. The project encompasses various aspects of image processing and analysis, including lane marking detection, night-time adaptation, and crosswalk detection. The algorithm aims to accurately identify lane markings under different conditions and enhance the safety and reliability of autonomous driving systems.
 
 ## Core Project
+Our algorithm for finding paths in several steps:
+1. Setup and Initialization
+2. Pre-process each frame
+3. Focus on Region of Interest (ROI)
+4. Detect Lane Lines
+5. Smooth and average Lane Line Detection
+6. Draw Lane Lines
+7. Detect and Indicate Route Changes
+8. Adjust Brightness and Contrast if needed (Night Mode)
+9. Crosswalk detection (if needed)
+10. Process Video
 
-### Video Selection and Processing
-- Choose a dashcam video featuring a car driving on a highway.
-- Extract a segment of at least 20 seconds from the video.
-- Consider factors such as lighting conditions, lane visibility, and road type.
+During the code, we used several techniques we learned in order to reach an optimal result:
+ Greyscaling: in order to simplify the processing and calculations in each frame.
+ Canny: in order to extract the edges of the objects, especially the paths.
+ ROI Crop: Analysis of the relevant parts in each frame, with the first being the lane in which the car is located.
+ Hough Line Transform: Identifying straight lines in the frame - enables the extraction of paths from among all existing objects.
+ Use of mathematical manipulations in order to avoid noises and enable the marking of the lanes smoothly and uniformly.
+ In order to identify intersections, we used morphological operations to highlight objects, and finding contours by cv.findContours.
 
 ### Lane Marking Detection and Visualization
 - Annotate each frame of the video with accurate lane markings.
 - Include a demonstration of a lane change with appropriate markings.
 - Implement strategies for cropping, color thresholding, and line verification.
 
-### Example Frame Analysis
+###  Frame Analysis
 - Provide an in-depth analysis of an example frame.
 - Illustrate the approach to identifying and marking lane lines.
 - Address complexities like varying light conditions or nearby traffic.
