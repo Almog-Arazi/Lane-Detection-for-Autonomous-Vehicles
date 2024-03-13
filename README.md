@@ -49,6 +49,7 @@ Differentiate crosswalks from other road markings for safety.
 
 ## Results
 [![](https://ibb.co/Bg6HWZm)](http://https://ibb.co/Bg6HWZm)
+<a href="https://ibb.co/Bg6HWZm"><img src="https://i.ibb.co/2jM0Vtw/bc3e00aa-4d3c-4c3b-a7e6-343f466e4948-0.jpg" alt="bc3e00aa-4d3c-4c3b-a7e6-343f466e4948-0" border="0" /></a>
 
 ### Day Result
 
