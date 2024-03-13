@@ -36,10 +36,12 @@ Differentiate crosswalks from other road markings for safety.
 ## Results
 ### Day Result
 
-https://github.com/Almog-Arazi/Lane-Detection-for-Autonomous-Vehicles/assets/112971847/9ebfba29-bb16-4e34-bcc9-2923c6afc854
+
+
+https://github.com/Almog-Arazi/Lane-Detection-for-Autonomous-Vehicles/assets/112971847/50d1b6ce-786e-4a21-81cf-37617d20c594
+
 
 https://youtu.be/aVcRgJhPpVo
-
 
 
 ### Night-Time Lane Detection Result
